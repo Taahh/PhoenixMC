@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050a43ec-2624-4377-8059-aaf0cbadfc9b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/../PhoenixMC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -335,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543747187984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add files">
+      <created>1543747236855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543747236855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
