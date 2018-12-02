@@ -7,19 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="050a43ec-2624-4377-8059-aaf0cbadfc9b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/artifacts/PhoenixMC_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/beamePluginConfig1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/libraries/nukkit_1_0_SNAPSHOT.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/PhoenixMC.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PhoenixMC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PlayerManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/cmds/CMD_phoenixmc.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/config/ConfigurationC.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/listeners/JoinListener.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/src/plugin.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../PhoenixMC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PhoenixMC/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PhoenixMC.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-6">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1155#1156#0" expanded="true" />
@@ -50,8 +39,8 @@
       <file leaf-file-name="PlayerManager.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PlayerManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
+            <state relative-caret-position="510">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
@@ -339,6 +328,14 @@
       <option name="presentableId" value="Default" />
       <updated>1543550388578</updated>
     </task>
+    <task id="LOCAL-00001" summary="add files">
+      <created>1543747187984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543747187984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -374,6 +371,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -580,7 +581,7 @@
     <entry file="file://$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PhoenixMC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1155#1156#0" expanded="true" />
@@ -593,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../PhoenixMC/src/me/taahanis/phoenixmc/PlayerManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="82" selection-end-line="27" selection-end-column="82" />
+        <state relative-caret-position="510">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
