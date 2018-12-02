@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhoenixMC:jar">
+    <output-path>$PROJECT_DIR$/../PhoenixMC/out/artifacts/PhoenixMC_jar</output-path>
+    <root id="archive" name="PhoenixMC.jar">
+      <element id="module-output" name="PhoenixMC" />
+    </root>
+  </artifact>
+</component>
