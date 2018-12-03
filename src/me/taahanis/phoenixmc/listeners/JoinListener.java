@@ -14,14 +14,14 @@ public class JoinListener implements Listener {
     public JoinListener(PhoenixMC plugin){
         this.plugin = plugin;
     }
-
-    @EventHandler(priority = EventPriority.HIGH, ignoreCancelled = false)
+    @EventHandler(priority = EventPriority.HIGH)
     public void onJoin(PlayerJoinEvent event)
     {
         Player player = event.getPlayer();
-           if (!PhoenixMC.pm.playerExists(player)){
+           if (!plugin.players.contains(player.getUniqueId().toString())){
                PhoenixMC.pm.createPlayer(player);
-               event.getPlayer().getServer().getLogger().info("worked x3");
+               plugin.players.add(player.getUniqueId().toString());
+
            }
 
     }

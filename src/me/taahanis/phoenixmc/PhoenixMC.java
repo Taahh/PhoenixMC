@@ -11,9 +11,12 @@ import me.taahanis.phoenixmc.listeners.JoinListener;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 public class PhoenixMC extends PluginBase{
 
+    public final List<String> players = new ArrayList<>();
     public static PhoenixMC plugin;
     Config plyrs;
     File plyrsFile;
