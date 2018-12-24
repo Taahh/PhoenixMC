@@ -1,0 +1,14 @@
+name: PhoenixMC
+main: me.taahanis.phoenixmc.PhoenixMC
+#remember version and api is string, don't write it like this: 1.0.0, or there will be an exception
+version: "1.0.0"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: taahanis
+description: PhoenixMC for nukkit
+#commands:
+ # phoenixmc:
+  #  description: Main cmd
+   # usage: "/phoenixmc"
+    #aliases: ["pmc"]
